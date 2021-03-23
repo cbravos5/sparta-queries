@@ -1,3 +1,14 @@
 # sparta-queries
-<img src="https://d2mxuefqeaa7sj.cloudfront.net/s_66F28004199C6A14809B9FA6404CCBEC51328DEB38E93BBC0B005782D3BD7628_1526995755972_test.png">
 
+## ERD
+<img src="/erd.png">
+
+## Proposed Queries
+
+| # | Description |
+| - | ----------- |
+| 1 | Buscar os nomes de todos os alunos que frequentam alguma turma do professor 'JOAO PEDRO' |
+| 2 | Buscar os dias da semana que tenham aulas da disciplina 'MATEMATICA' |
+| 3 | Buscar todos os alunos que frequentem aulas de 'MATEMATICA' e também 'FISICA' |
+| 4 | Buscar as disciplinas que não tenham nenhuma turma |
+| 5 | Buscar os alunos que frequentem aulas de 'MATEMATICA' exceto os que frequentem 'QUIMICA' |
